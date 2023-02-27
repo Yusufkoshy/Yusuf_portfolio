@@ -20,6 +20,16 @@
       </div>
     </div>
     <div
+      v-motion
+      :initial="{
+        opacity: 0,
+        y: 200,
+      }"
+      :visible="{
+        opacity: 1,
+        y: 0,
+        delay: 900,
+      }"
       class="get__in__touch__box flex flex-col items-center justify-center py-10 mt-32"
     >
       <span class="text-white mt-3 mb-4 cursive text-6xl text-center"

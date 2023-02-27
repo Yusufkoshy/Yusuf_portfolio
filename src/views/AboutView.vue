@@ -16,12 +16,12 @@
             created my first website acctually without a code it was like a free
             host on the internet makes the user create a website and it was a
             social media site included chatting and adding friends and posting
-            on it i was so happy about it i was a kid and i though thay im a
+            on it i was so happy about it i was a kid and i though that i'm a
             genius after that i liked the field more and more and i also liked
             the cyber security so much and i learned about Linux Ubuntu and Kali
             and Redhat and Fedora and some of them tools after that did learn i
             did learn some networking i learned N+ and CCNA after that i really
-            wanted to learn codeing and programming and web developing was the
+            wanted to learn coding and programming and web developing was the
             choice because it's my first obsession and i started to learn html
             and after that css and i was making some primitive projects then i
             knew about a scholarship in front-end from the Egyptian ministry of
@@ -30,7 +30,7 @@
             applicants i passed my test and had an interview and passed them
             successfully and i learnt a lot in this course and i made a lot of
             projects with them and i finished it successfully with great
-            knowledge wich make me able to work on big projects i learnt a lot
+            knowledge wich made me able to work on big projects i learnt a lot
             of things html css javaScript Vuejs Npm yarn Tailwind and i'm
             proceeding now to make the best career in web developing INSHAALLAH.
           </span>

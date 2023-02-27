@@ -39,7 +39,19 @@
     <Transition name="fade">
       <router-view />
     </Transition>
-    <footer class="bg-black text-gray-700 text-center p-3 mx-1 mb-1">
+    <footer
+      v-motion
+      :initial="{
+        opacity: 0,
+        y: 200,
+      }"
+      :visible="{
+        opacity: 1,
+        y: 0,
+        delay: 900,
+      }"
+      class="bg-black text-gray-700 text-center p-3 mx-1 mb-1"
+    >
       <p>Copyright © 2022 Yusuf - Development.</p>
     </footer>
   </div>
