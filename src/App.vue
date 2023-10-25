@@ -113,23 +113,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
-// nav {
-//   padding-block: 12px;
-//   margin-right: 2em;
-//   font-family: cursive;
-//   font-size: larger;
-//   font-weight: bolder;
-//   text-align: end;
-
-//   a {
-//     font-weight: bold;
-//     color: white;
-
-//     &.router-link-exact-active {
-//       color: #42b983;
-//     }
-//   }
-// }
 nav {
   font-family: cursive;
   font-size: larger;
